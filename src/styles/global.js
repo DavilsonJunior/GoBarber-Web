@@ -20,6 +20,7 @@ export default createGlobalStyle`
 
   body, input, button {
     font: 14px 'Roboto', sans-serif;
+    -webkit-smoothing: antialiased;
   }
 
   a {
