@@ -38,6 +38,8 @@ module.exports = {
     'import/no-extraneous-dependencies': 'off',
     'react-hooks/rules-of-hooks': 'error',
     'react-hooks/exhaustive-deps': 'warn',
+    'camelcase': 'off',
+    'prefer-object-spread': 'off'
   },
   settings: {
     'import/resolver': {
